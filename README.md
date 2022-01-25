@@ -57,7 +57,7 @@ Really Boring Guild invites participation from the members of the guild, the mem
 - Docusaurus Instructions
 
 ### MolochDAO Newsletter
-- [January 2022](https://hackmd.io/kdpU8l05Rf2U6bAu1gnIkA)
+- January 2022
 
 ### ReallyBoringGuild 
 - [RBG Roadmap 2022](https://hackmd.io/4Zr-ugN9TAy4sFxbjTD-JA)
