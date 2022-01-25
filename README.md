@@ -14,4 +14,4 @@ The Really Boring Guild schedules a weekly meeting for strategy building require
 
 ## Who Can Attend
 
-Really Boring Guilds invites participation from the member of the guild, the members of Moloch DAO and community member who is interested to be a contributor of the Really Boring Guild. The meeting is organized on the Moloch DAO Discord (#ReallyBoringGuild). 
+Really Boring Guild invites participation from the members of the guild, the members of Moloch DAO and the community member(s) who is interested to be a contributor of the Really Boring Guild. The meeting is organized on the Moloch DAO Discord (#ReallyBoringGuild). 
