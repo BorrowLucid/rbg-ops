@@ -40,6 +40,8 @@ Really Boring Guild invites participation from the members of the guild, the mem
 
 ### MolochDAO Grant Application
 - [Grant FAQs](https://hackmd.io/6N23flN1SaW5x-NQ-1khtA)
+- [FAQ for the Grants Pipeline](https://docs.google.com/document/d/1i3dYkip36qSYFpOHlEtnPUzgwmnvLF6AlRVq_mcuBN8/edit)
+- [Application FAQ](https://docs.google.com/document/d/1n6z_nAlUSNfNKytUzwKPYcZ35u2JXw9s1s4ZVLn95l4/edit)
 
 ### About MolochDAO
 - Handbook
