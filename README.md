@@ -7,6 +7,7 @@ The Really Boring Guild schedules a weekly meeting for strategy building require
 
  №  | Date                             | Notes          | 
 --- | -------------------------------- | -------------- |
+6  | Feb 7, 2022 | [Notes](https://hackmd.io/HN3PxoF5ScKHnUU0rB1S2A)
 5  |Jan 31, 2022 | [Notes](https://hackmd.io/L4gIB-qqSh-_ZH2OB5Cu5A)
 4  |Jan 24, 2022 | [Notes](https://hackmd.io/@rbg/BkkqOH26Y) |
 3  | Jan 17, 2022 |  |
