@@ -32,11 +32,14 @@ Really Boring Guild invites participation from the members of the guild, the mem
     - [published January 22, 2022 on Medium blog](https://medium.com/molochdao/molochdao-interview-with-travis-wyche-of-deathguild-7b5f71d3266)
     - [transcription and reference links](https://hackmd.io/hrFyQbHuSxyGfSI_bdVU7A)
 - Antoine Toulme of Apache Tuweni
-    - published January __, 2022 on Medium blog
+    - published
     - [transcription and reference links](https://hackmd.io/cD3kqTRaRJ-Eu4B8mi4sCw)
 - Matt Garnett of EIP - 3074
-    - published 
+    - [published February 4, 2022 on Medium blog](https://medium.com/molochdao/molochdao-interview-with-matt-garnett-of-eip-3074-a4baf88782cf)
     - [transcription and reference links](https://hackmd.io/Q5m6rIsFRZmHpBuTEZae8g)
+- Ann Willmott of ReallyBoringGuild
+    - published
+    - [transcription and reference links](https://hackmd.io/kwKFEegdToCJUZRNmEOCNQ)
 
 ### MolochDAO Grant Application
 - [Grant FAQs](https://hackmd.io/6N23flN1SaW5x-NQ-1khtA)
